@@ -3,6 +3,7 @@ function showchart()
 {
 
 
+change1
 
 
 }
